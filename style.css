@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 body{
-  background-color: rgb(224, 238, 228);
+  background-color: white;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -20,12 +20,13 @@ body{
 }
 .column{
   position: initial;
-  background-color: rgb(234, 213, 213);
+  background-color: whitesmoke;
   padding: 20px;
 }
 .column1{
   position: initial;
-  background-color: rgb(247, 150, 89);
+  background-color: grey;
+
   padding: 30px;
 }
 hr.style{
@@ -41,17 +42,20 @@ hr.style{
   color: black;
 }
 a:link {
-  color: rgb(237, 30, 15);
+  color: rgb(132, 192, 37);
+
   background-color: transparent;
   text-decoration: none;
 }
 a:visited {
-  color: rgb(244, 19, 19);
+  color: rgb(216, 223, 10);
+
   background-color: transparent;
   text-decoration: none;
 }
 a:hover {
-  color: rgb(74, 31, 215);
+  color: red;
   background-color: transparent;
   text-decoration: underline;
 }
+
