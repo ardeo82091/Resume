@@ -26,6 +26,7 @@ body{
 .column1{
   position: initial;
   background-color: grey;
+
   padding: 30px;
 }
 hr.style{
@@ -42,11 +43,13 @@ hr.style{
 }
 a:link {
   color: rgb(132, 192, 37);
+
   background-color: transparent;
   text-decoration: none;
 }
 a:visited {
   color: rgb(216, 223, 10);
+
   background-color: transparent;
   text-decoration: none;
 }
@@ -55,3 +58,4 @@ a:hover {
   background-color: transparent;
   text-decoration: underline;
 }
+
